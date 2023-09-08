@@ -1,0 +1,90 @@
+{
+  "projects": [
+    {
+      "projectId": "7nJ7UcFmq9UzB6eXfC5z4a",
+      "version": "0.20.0",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "assetId": "7nJ7UcFmq9UzB6eXfC5z4a",
+          "type": "projectCss",
+          "checksum": "05587b57f22f0ec8bb54543deb39762e"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "jkU633o1Cz7HrJdwdxhVHk",
+      "version": "16.1.0",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "assetId": "jkU633o1Cz7HrJdwdxhVHk",
+          "type": "projectCss",
+          "checksum": "e1ec850476829c38b0f9b6d4f7ac446a"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "ohDidvG9XsCeFumugENU3J",
+      "version": "4.15.0",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "assetId": "ohDidvG9XsCeFumugENU3J",
+          "type": "projectCss",
+          "checksum": "fd83b730367fdbde2c69bc6cf31c2a3c"
+        },
+        {
+          "assetId": "ohDidvG9XsCeFumugENU3J",
+          "checksum": "0293af0adadc2d03e8760ddd1ad5d3a9",
+          "type": "globalContexts"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "nHCjRewDEkTPLhuwjKSJaW",
+      "version": "latest",
+      "dependencies": {
+        "ohDidvG9XsCeFumugENU3J": "4.15.0",
+        "jkU633o1Cz7HrJdwdxhVHk": "16.1.0",
+        "7nJ7UcFmq9UzB6eXfC5z4a": "0.20.0"
+      },
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "kEYFpWP83Dft",
+          "checksum": "207d310e19e13ae3f3abde28ac9a0f1e"
+        },
+        {
+          "assetId": "nHCjRewDEkTPLhuwjKSJaW",
+          "type": "projectCss",
+          "checksum": "fad775f85779c16009eca4dc2a63d624"
+        },
+        {
+          "assetId": "nHCjRewDEkTPLhuwjKSJaW",
+          "checksum": "20b40a8a0882affd25f60736ef0ea3de",
+          "type": "globalContexts"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "2JiXKdUf8VVY",
+          "checksum": "7f336b884a5bfd09ee7e65b82e04048d"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "2JiXKdUf8VVY",
+          "checksum": "7f336b884a5bfd09ee7e65b82e04048d"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.308"
+}
